@@ -8,142 +8,20 @@ http://angels.red:80/live/778924/363483/114961.m3u8
 http://angels.red:80/live/778924/363483/114955.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD" tvg-logo="" group-title="CANAIS: VARIEDADES",MAIS GLOBOSAT HD
 http://angels.red:80/live/778924/363483/111935.m3u8
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV GAZETA ALAGOAS HD" tvg-logo="https://tinyurl.com/logoglobo" group-title="CANAIS: GLOBO TV",GLOBO TV GAZETA ALAGOAS HD
-http://angels.red:80/live/778924/363483/108551.m3u8
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="https://tinyurl.com/logoglobo" group-title="CANAIS: GLOBO TV",GLOBO TV SERGIPE HD
-http://angels.red:80/live/778924/363483/108548.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 1 HD" tvg-logo="" group-title="CANAIS:COPA NORDESTE PPV",Copa do Nordeste 1 HD
 http://angels.red:80/live/778924/363483/103900.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2 HD" tvg-logo="" group-title="CANAIS:COPA NORDESTE PPV",Copa do Nordeste 2 HD
 http://angels.red:80/live/778924/363483/103896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="" group-title="CANAIS: GLOBO TV",GLOBO NSC TV FLORIANOPOLIS HD
-http://angels.red:80/live/778924/363483/102569.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU HD" tvg-logo="" group-title="CANAIS: GLOBO TV",GLOBO NSC TV BLUMENAU HD
-http://angels.red:80/live/778924/363483/102566.m3u8
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://tinyurl.com/yw4nrt2n" group-title="CANAIS: FILMES E SERIES",UNIVERSAL CHANNEL HD
 http://angels.red:80/live/778924/363483/102559.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://tinyurl.com/6x4r4vjy" group-title="CANAIS: INFANTIL",NICKELODEON HD
 http://angels.red:80/live/778924/363483/102369.m3u8
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV BAHIA HD
-http://angels.red:80/live/778924/363483/102341.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD" tvg-logo="https://img2.gratispng.com/20180613/byp/kisspng-brazil-recordtv-logo-rede-globo-television-record-5b210980716d36.1337312615288917764646.jpg" group-title="CANAIS: RECORD",RECORDTV SP HD
 http://angels.red:80/live/778924/363483/101871.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RIO HD" tvg-logo="https://img2.gratispng.com/20180613/byp/kisspng-brazil-recordtv-logo-rede-globo-television-record-5b210980716d36.1337312615288917764646.jpg" group-title="CANAIS: RECORD",RECORDTV RIO HD
-http://angels.red:80/live/778924/363483/101866.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV DF HD" tvg-logo="https://img2.gratispng.com/20180613/byp/kisspng-brazil-recordtv-logo-rede-globo-television-record-5b210980716d36.1337312615288917764646.jpg" group-title="CANAIS: RECORD",RECORDTV DF HD
-http://angels.red:80/live/778924/363483/101863.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV MG HD" tvg-logo="https://img2.gratispng.com/20180613/byp/kisspng-brazil-recordtv-logo-rede-globo-television-record-5b210980716d36.1337312615288917764646.jpg" group-title="CANAIS: RECORD",RECORDTV MG HD
-http://angels.red:80/live/778924/363483/101861.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV BA HD" tvg-logo="https://img2.gratispng.com/20180613/byp/kisspng-brazil-recordtv-logo-rede-globo-television-record-5b210980716d36.1337312615288917764646.jpg" group-title="CANAIS: RECORD",RECORDTV BA HD
-http://angels.red:80/live/778924/363483/101859.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RS HD" tvg-logo="https://img2.gratispng.com/20180613/byp/kisspng-brazil-recordtv-logo-rede-globo-television-record-5b210980716d36.1337312615288917764646.jpg" group-title="CANAIS: RECORD",RECORDTV RS HD
-http://angels.red:80/live/778924/363483/101856.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV BELEM HD" tvg-logo="https://img2.gratispng.com/20180613/byp/kisspng-brazil-recordtv-logo-rede-globo-television-record-5b210980716d36.1337312615288917764646.jpg" group-title="CANAIS: RECORD",RECORDTV BELEM HD
-http://angels.red:80/live/778924/363483/101853.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV GO HD" tvg-logo="https://img2.gratispng.com/20180613/byp/kisspng-brazil-recordtv-logo-rede-globo-television-record-5b210980716d36.1337312615288917764646.jpg" group-title="CANAIS: RECORD",RECORDTV GO HD
-http://angels.red:80/live/778924/363483/101851.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV TV GOIANIA FHD ULTRA HD" tvg-logo="https://img2.gratispng.com/20180613/byp/kisspng-brazil-recordtv-logo-rede-globo-television-record-5b210980716d36.1337312615288917764646.jpg" group-title="CANAIS: RECORD",RECORDTV TV GOIANIA FHD ULTRA HD
-http://angels.red:80/live/778924/363483/101849.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record Sao Jose Rio Preto HD" tvg-logo="https://img2.gratispng.com/20180613/byp/kisspng-brazil-recordtv-logo-rede-globo-television-record-5b210980716d36.1337312615288917764646.jpg" group-title="CANAIS: RECORD",Record Sao Jose Rio Preto HD
-http://angels.red:80/live/778924/363483/101843.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record Sergipe - Tv Atalaia HD" tvg-logo="https://img2.gratispng.com/20180613/byp/kisspng-brazil-recordtv-logo-rede-globo-television-record-5b210980716d36.1337312615288917764646.jpg" group-title="CANAIS: RECORD",Record Sergipe - Tv Atalaia HD
-http://angels.red:80/live/778924/363483/101842.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO",GLOBO SP HD
-http://angels.red:80/live/778924/363483/101833.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO",TV GAZETA SP HD
 http://angels.red:80/live/778924/363483/101825.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO",GLOBO RJ HD
-http://angels.red:80/live/778924/363483/101822.m3u8
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO",GLOBO BRASILIA HD
-http://angels.red:80/live/778924/363483/101816.m3u8
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO",GLOBO NORDESTE HD
-http://angels.red:80/live/778924/363483/101810.m3u8
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO",GLOBO MINAS HD
-http://angels.red:80/live/778924/363483/101806.m3u8
 #EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO INTER TV CABUGI NATAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO INTER TV",GLOBO INTER TV CABUGI NATAL HD
 http://angels.red:80/live/778924/363483/101767.m3u8
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO EPTV",GLOBO EPTV RIBEIRÃO PRETO HD
-http://angels.red:80/live/778924/363483/101766.m3u8
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO EPTV",GLOBO EPTV CAMPINAS HD
-http://angels.red:80/live/778924/363483/101757.m3u8
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV SAO CARLOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO EPTV",GLOBO EPTV SAO CARLOS HD
-http://angels.red:80/live/778924/363483/101751.m3u8
-#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GLOBO TV MORENA CAMPO GRANDE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV MORENA CAMPO GRANDE HD
-http://angels.red:80/live/778924/363483/101746.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GLOBO TV GAZETA VITÓRIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV GAZETA VITÓRIA HD
-http://angels.red:80/live/778924/363483/101742.m3u8
-#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GLOBO TV REDE AMAZONICA RIO BRANCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV REDE AMAZONICA RIO BRANCO HD
-http://angels.red:80/live/778924/363483/101738.m3u8
-#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GLOBO TV REDE AMAZONICA MACAPA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV REDE AMAZONICA MACAPA HD
-http://angels.red:80/live/778924/363483/101735.m3u8
-#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GLOBO TV MIRANTE COCAIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV MIRANTE COCAIS HD
-http://angels.red:80/live/778924/363483/101732.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV INTEGRACAO UBERABA HD
-http://angels.red:80/live/778924/363483/101729.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV SUBAE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV SUBAE HD
-http://angels.red:80/live/778924/363483/101726.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV SUDOESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV SUDOESTE HD
-http://angels.red:80/live/778924/363483/101723.m3u8
-#EXTINF:-1 tvg-id="Tvdiario.br" tvg-name="GLOBO TV DIARIO MOGI DAS CRUZES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV DIARIO MOGI DAS CRUZES HD
-http://angels.red:80/live/778924/363483/101720.m3u8
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM ITAPETININGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV TEM ITAPETININGA HD
-http://angels.red:80/live/778924/363483/101717.m3u8
-#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GLOBO TV REDE AMAZONICA BOA VISTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV REDE AMAZONICA BOA VISTA HD
-http://angels.red:80/live/778924/363483/101714.m3u8
-#EXTINF:-1 tvg-id="Tvfronteira.br" tvg-name="GLOBO TV FRONTEIRA P. PRUDENTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV FRONTEIRA P. PRUDENTE HD
-http://angels.red:80/live/778924/363483/101711.m3u8
-#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV REDE AMAZONICA PORTO VELHO HD
-http://angels.red:80/live/778924/363483/101708.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="GLOBO TV INTEGRACAO UBERLANDIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV INTEGRACAO UBERLANDIA HD
-http://angels.red:80/live/778924/363483/101705.m3u8
-#EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO TV VANGUARDA TAUBATE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV VANGUARDA TAUBATE HD
-http://angels.red:80/live/778924/363483/101702.m3u8
-#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GLOBO TV REDE AMAZONICA MANAUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV REDE AMAZONICA MANAUS HD
-http://angels.red:80/live/778924/363483/101700.m3u8
-#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV LIBERAL BELEM HD
-http://angels.red:80/live/778924/363483/101698.m3u8
-#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GLOBO TV CENTRO AMERICA CUIABA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV CENTRO AMERICA CUIABA HD
-http://angels.red:80/live/778924/363483/101696.m3u8
-#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV VERDES MARES FORTALEZA HD
-http://angels.red:80/live/778924/363483/101694.m3u8
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC TV PARANAVAI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO RPC TV PARANAVAI HD
-http://angels.red:80/live/778924/363483/101690.m3u8
-#EXTINF:-1 tvg-id="TVAsabranca.br" tvg-name="GLOBO TV ASA BRANCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV ASA BRANCA HD
-http://angels.red:80/live/778924/363483/101687.m3u8
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC TV PONTA GROSSA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO RPC TV PONTA GROSSA HD
-http://angels.red:80/live/778924/363483/101684.m3u8
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV SANTA MARIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO RBS TV SANTA MARIA HD
-http://angels.red:80/live/778924/363483/101681.m3u8
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV CENTRO-OESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO NSC TV CENTRO-OESTE HD
-http://angels.red:80/live/778924/363483/101678.m3u8
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV CRICIUMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO NSC TV CRICIUMA HD
-http://angels.red:80/live/778924/363483/101675.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GLOBO TV GAZETA SUL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV GAZETA SUL HD
-http://angels.red:80/live/778924/363483/101672.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="GLOBO TV INTEGRAÇÃO JUIZ DE FORA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV INTEGRAÇÃO JUIZ DE FORA HD
-http://angels.red:80/live/778924/363483/101670.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="GLOBO TV INTEGRAÇÃO ARAXA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV INTEGRAÇÃO ARAXA HD
-http://angels.red:80/live/778924/363483/101667.m3u8
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV PASSO FUNDO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO RBS TV PASSO FUNDO HD
-http://angels.red:80/live/778924/363483/101658.m3u8
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV TEM SOROCABA HD
-http://angels.red:80/live/778924/363483/101655.m3u8
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV TEM BAURU HD
-http://angels.red:80/live/778924/363483/101653.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TRIBUNA SANTOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV TRIBUNA SANTOS HD
-http://angels.red:80/live/778924/363483/101651.m3u8
-#EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV VANGUARDA S. J. DOS CAMPOS HD
-http://angels.red:80/live/778924/363483/101649.m3u8
-#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES CARIRI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO TV",GLOBO TV VERDES MARES CARIRI HD
-http://angels.red:80/live/778924/363483/101647.m3u8
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO RPC",GLOBO RPC CURITIBA HD
-http://angels.red:80/live/778924/363483/101639.m3u8
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC LONDRINA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO RPC",GLOBO RPC LONDRINA HD
-http://angels.red:80/live/778924/363483/101636.m3u8
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CASCAVEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO RPC",GLOBO RPC CASCAVEL HD
-http://angels.red:80/live/778924/363483/101633.m3u8
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS: GLOBO RPC",GLOBO RPC MARINGA HD
-http://angels.red:80/live/778924/363483/101630.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg" group-title="CANAIS: ABERTOS",SBT HD
 http://angels.red:80/live/778924/363483/101626.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://www.sonoticiaboa.com.br/wp-content/uploads/2012/10/LogoBand.jpg" group-title="CANAIS: ABERTOS",BAND SP HD
