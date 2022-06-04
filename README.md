@@ -2,8 +2,8 @@
 
 ### Instructions
 
-- list_in: a full iptv list file
-- list_out: a clean iptv list file
+- list-in: url of iptv list
+- list-out: a clean iptv list file
 - quality: must contain the quality of channels
 
 ### Commands
