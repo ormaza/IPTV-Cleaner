@@ -10,10 +10,10 @@ namespace iptv_cleaner
         {
             string[] quality = {"FHD","4K"};
             string line, substr;
-	    string list-in = "";
+	        string list_in = "http://mmds.fun:8880/get.php?username=73783163&password=84419772&type=m3u_plus&output=m3u8";
             bool next = false;
             WebClient client = new WebClient();
-            Stream stream = client.OpenRead(list-in);
+            Stream stream = client.OpenRead(list_in);
             StreamReader sr = new StreamReader(stream);
             StreamWriter sw = new StreamWriter("list-out.m3u");
             while ((line = sr.ReadLine()) != null)
